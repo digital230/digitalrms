@@ -10,11 +10,8 @@
     "digitalrms": "index.js"
   },
   "preferGlobal": true,
-  "author": "",
+  "author": "Omer quyyum",
   "license": "ISC",
-  "dependencies": {
-    "commander": "^2.18.0"
-  },
   "keywords": [
     "react",
     "@digital230",
@@ -32,7 +29,7 @@
     "modules",
     "fs",
     "files structure",
-    "files system",
+    "files system"
   ],
   "repository": {
     "type": "git",
@@ -41,4 +38,7 @@
   "bugs": {
     "url": "https://github.com/digital230/digitalrms/issues"
   },
+  "dependencies": {
+    "commander": "^2.18.0"
+  }
 }
