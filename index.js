@@ -29,13 +29,6 @@ function run(name, options) {
     return;
   }
 
-  // let mainFile = `./${name}/${jsFileName}.${ext}`;
-  // let fileContent = require('./fileContent/content.js')(jsFileName, extendWith, addRedux, {ssPath: `${name}.${ss}`, stylesheet:ss})
-  // let mfres = createFile(mainFile, fileContent);
-  // let mainIndex = createFile(`./${name}/index.js`, `export {default} from './${jsFileName}.${ext}' `);
-  // let utilres = createFile(`./${name}/util.js`);
-  // let constres = createFile(`./${name}/constant.js`);
-
   createMainStructure(name, jsFileName, ext, extendWith, ss, addRedux)
 
 

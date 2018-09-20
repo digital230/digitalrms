@@ -32,7 +32,6 @@ function addReduxFiles(dirName) {
 
   let acres = createFile(`./${dirName}/action.js`);
 
-
 }
 
 
@@ -45,7 +44,6 @@ function addTranslationFiles(dirName) {
   let i18nsvres = createFile(`./${dirName}/i18n/sv.js`);
 
   let i18nIndexres = createFile(`./${dirName}/i18n/index.js`, i18nIndexContent());
-
 }
 
 

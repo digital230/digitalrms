@@ -3,7 +3,7 @@ cli for creating light weight react module structure
 
 # install : npm i -g digitalrms;
 
-use: digitalrms name -e js -s css -r ;
+use: digitalrms **name** -e js -s css -r -t ;
 
 
 # params:
@@ -15,4 +15,6 @@ use: digitalrms name -e js -s css -r ;
 '-s, --ss [type]', 'include stylesheet';
 
 '-r, --redux [val]', 'include redux structure', false;
+
+'-t, --translation [val]', 'include translation', false;
 
