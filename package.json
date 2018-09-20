@@ -14,5 +14,31 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^2.18.0"
-  }
+  },
+  "keywords": [
+    "react",
+    "@digital230",
+    "reactmodules",
+    "react-modules-gen",
+    "react-modules-create",
+    "react-modules-file",
+    "create-react-file",
+    "create-react-modules",
+    "digital",
+    "digitalrms",
+    "commander",
+    "commandline",
+    "arguments",
+    "modules",
+    "fs",
+    "files structure",
+    "files system",
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digital230/digitalrms"
+  },
+  "bugs": {
+    "url": "https://github.com/digital230/digitalrms/issues"
+  },
 }
