@@ -18,8 +18,6 @@ function run(name, options) {
   let extendWith = 'PureComponent';
   let translation = options.translation;
 
-  console.log(name, ext, ss, addRedux);
-
   let jsFileName = name.charAt(0).toUpperCase() + name.substr(1);
   let ssFileName = name.toLowerCase();
 
@@ -44,8 +42,6 @@ function run(name, options) {
   if(translation) {
     addTranslationFiles(name)
   }
-
-
 }
 
 program
