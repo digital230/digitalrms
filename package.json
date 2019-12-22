@@ -12,6 +12,21 @@
   "preferGlobal": true,
   "author": "",
   "license": "ISC",
+  "keywords": [
+    "react",
+    "@digital230",
+    "reactcomponent",
+    "react-component-gen",
+    "react-component-create",
+    "react-component-file",
+    "create-react-file",
+    "create-react-component",
+    "digital",
+    "digitalrms",
+    "commander",
+    "commandline",
+    "arguments"
+  ],
   "dependencies": {
     "commander": "^2.18.0"
   }
