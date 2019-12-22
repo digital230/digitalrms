@@ -1,6 +1,6 @@
 {
   "name": "digitalrms",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "tool for create react module structure",
   "main": "index.js",
   "scripts": {
